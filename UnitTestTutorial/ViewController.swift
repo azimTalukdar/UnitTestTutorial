@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         
         //This is test 1
+        //This is test 2
     }
 
 
